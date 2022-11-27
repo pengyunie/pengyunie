@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:wink: I am Pengyu Nie! Learn more about me [here](https://pengyunie.github.io).
+I am Pengyu Nie! Homepage: [here](https://pengyunie.github.io)
 
 [![Pengyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengyunie&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
